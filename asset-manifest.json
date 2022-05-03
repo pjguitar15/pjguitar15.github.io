@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pjguitar15.github.io/static/css/main.4159e09c.css",
+    "main.js": "/pjguitar15.github.io/static/js/main.97edffaa.js",
+    "static/media/img2.JPG": "/pjguitar15.github.io/static/media/img2.f4f332f8000f1a117000.JPG",
+    "static/media/pointing-shirt.png": "/pjguitar15.github.io/static/media/pointing-shirt.99ba57cc4e42d8091a35.png",
+    "static/media/img4.JPG": "/pjguitar15.github.io/static/media/img4.b5edd929461b8b395dde.JPG",
+    "static/media/img3.JPG": "/pjguitar15.github.io/static/media/img3.fe3d0783f6ce3f250d8d.JPG",
+    "static/media/about-us-bg.JPG": "/pjguitar15.github.io/static/media/about-us-bg.17afba56cd89fdb86cc4.JPG",
+    "static/media/img1.jpeg": "/pjguitar15.github.io/static/media/img1.0497718c749f2bdf8917.jpeg",
+    "static/media/fundraising-bg.jpg": "/pjguitar15.github.io/static/media/fundraising-bg.5b80e0ca1af0ae33f5af.jpg",
+    "static/media/fr1.jpg": "/pjguitar15.github.io/static/media/fr1.2517d37ad14fce9f9520.jpg",
+    "static/media/fr2.jpg": "/pjguitar15.github.io/static/media/fr2.e87a43b1cc3878dd7e76.jpg",
+    "static/media/donate-icon.png": "/pjguitar15.github.io/static/media/donate-icon.c28c0b813a3a3846328a.png",
+    "static/media/icon3.svg": "/pjguitar15.github.io/static/media/icon3.9bde5b3a7c8d70e71ef3b5bd3095befc.svg",
+    "static/media/icon2.svg": "/pjguitar15.github.io/static/media/icon2.6b2d74c4dcb0b18a0b913a2a6eef0b2b.svg",
+    "static/media/icon1.svg": "/pjguitar15.github.io/static/media/icon1.f33204bccce03d6810332ba8e6eb3f8c.svg",
+    "static/media/icon5.svg": "/pjguitar15.github.io/static/media/icon5.65e46ec5e8ad6e6e245351831a1ae14d.svg",
+    "static/media/icon4.svg": "/pjguitar15.github.io/static/media/icon4.e348327b6dc44e331249c48cca23af86.svg",
+    "index.html": "/pjguitar15.github.io/index.html",
+    "main.4159e09c.css.map": "/pjguitar15.github.io/static/css/main.4159e09c.css.map",
+    "main.97edffaa.js.map": "/pjguitar15.github.io/static/js/main.97edffaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4159e09c.css",
+    "static/js/main.97edffaa.js"
+  ]
+}
